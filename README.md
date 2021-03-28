@@ -3,7 +3,7 @@ A small library containing tools (toolbox) that will help in the development of 
 
 ## Installation 
 - Clone this repository
-- Add torchbox_lib to the PYTHONPATH (*torchbox_lib, not torchbox)
+- Add torchbox_lib to the PYTHONPATH (*torchbox_lib, not torchbox*)
 
 *Installation with git will be available in the future!*
 
